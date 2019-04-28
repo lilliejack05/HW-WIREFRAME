@@ -1,0 +1,81 @@
+style.css
+body {
+    padding: 0;
+    margin: 0;
+    font-family:  "Helvetica Neue", Arial, sans-serif,
+    font-size:'18px';
+    width: 960%;
+    color: '#777';
+    background: '#777';
+  }
+  
+  header {
+    background: #ebebeb;
+  }
+  
+  nav {
+    background:#ebebeb
+    text-align: center
+  }
+  h1 {
+    padding: 0;
+    margin: 0;
+    margin-bottom: 0;
+    font-size: 18px;
+    color: #777
+    text-align: center;
+    background: #ebebeb
+  }
+  
+  h2 {
+    padding: 0;
+    margin: 0;
+    margin-bottom: 0;
+    font-size: 18px;
+    color: #777
+    text-align: center;
+    background: #ebebeb
+  }
+  h3 {
+    padding: 0,
+    margin: 0
+    margin-bottom: 0;
+    font-size: 18px
+    color: #777
+    text-align: center 
+    background: #ebebeb 
+  }
+  a {
+    padding: 20px
+    margin:0,
+    margin bottom: 20px
+    color: #777;
+    float: left;
+  }
+  
+  .container {
+    width: 495px;
+    margin: 0 auto;
+  }
+  
+  #aside,{
+    float: :right;
+  }
+  
+  P {color: #777;
+    background: #ebebeb
+  }
+  
+  #section{
+    float: left
+    width: 495px;
+  }
+  
+  footer {
+    font-size: 18px
+    width: 960px;
+    height: 200px;
+    margin-right: 20px;
+  }
+
+
